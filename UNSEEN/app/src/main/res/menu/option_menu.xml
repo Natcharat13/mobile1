@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/recom"
+        android:title="Recomment !!!" />
+    <item android:id="@+id/temple"
+    android:title="Temple" />
+    <item android:id="@+id/food"
+        android:title="Restaurant" />
+    <item android:id="@+id/nightmk"
+    android:title="Night market" />
+    <item android:id="@+id/home"
+        android:title="Item 2"
+        android:icon="@drawable/homeicon"
+        app:showAsAction="always"/>
+</menu>
